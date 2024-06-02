@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://henunate.github.io/sitemap.html
+Sitemap: https://henunate.github.io/fa/sitemap.html
+Sitemap: https://henunate.github.io/fi/sitemap.html
+Sitemap: https://henunate.github.io/fu/sitemap.html
